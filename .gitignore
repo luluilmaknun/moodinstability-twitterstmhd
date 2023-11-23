@@ -1,0 +1,5 @@
+SEANCE/
+env/
+dataset/
+LIWC*
+code/lightning_logs/*
